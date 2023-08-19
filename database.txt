@@ -1,0 +1,5 @@
+ 1 Idly 30 0
+ 2 Biryani 165 5
+ 3 Dosa 40 0
+ 4 coke 40 0
+ 5 puri 45 5
